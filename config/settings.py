@@ -45,6 +45,7 @@ INSTALLED_APPS = [
     "users",
     "trade",
     'rest_framework_simplejwt',
+    'redoc',
 
     'drf_yasg',
     'corsheaders',
